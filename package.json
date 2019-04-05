@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Nodonisko/ionic-cache.git"
+    "url": "git+https://github.com/mobile-support93/ionic-cache.git"
   },
   "keywords": [
     "ionic",
@@ -28,7 +28,7 @@
   "author": "Daniel Suchy",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Nodonisko/ionic-cache/issues"
+    "url": "https://github.com/mobile-support93/ionic-cache/issues"
   },
   "homepage": "https://github.com/Nodonisko/ionic-cache#readme",
   "devDependencies": {
